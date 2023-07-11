@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Yushan (Aaron) Kuerban
+    tagline: Backend & Cloud Native Developer
+    avatar: avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: yusankurban@gmail.com
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    timezone: China/Shanghai Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: yusank.space #do not add http://
+    linkedin: yusank
+    xing: 
+    github: yusank
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@yusankurban'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,26 +33,29 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Chinese
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Workout
           link:
 
-        - item: Snowboarding
+        - item: Skiing
           link:
 
         - item: Cooking
           link:
+
+        - item: Motorcycle
+          link:
+
+        - item: Movie
+          link:  
 
 career-profile:
     title: Career Profile
@@ -66,20 +69,20 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      # - degree: MSc in Computer Science
+      #   university: University of London
+      #   time: 2011 - 2012
+      #   details: |
+      #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+      #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      #     pretium quis, sem.
+      #       - Bullet point
+      #       - Bullet point
+      - degree: BSc in Computer science and technology
+        university: North China Electric Power University
+        time: 2014 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -242,23 +245,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Golang
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Databases
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Network
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      # - name: HTML5 & CSS
+      #   level: 95%
+
+      # - name: Ruby on Rails
+      #   level: 85%
+
+      # - name: Sketch & Photoshop
+      #   level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
