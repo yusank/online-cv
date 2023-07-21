@@ -3,9 +3,9 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Yushan (Aaron) Kuerban
@@ -156,6 +156,7 @@ experiences:
           - ETCD
           - Redis
           - Kubernetes
+
           I should mention that This new game platform has provided a lot of online services for all game teams that means the platform has
           a lot of traffic and it should be stable and efficient. At the maximum, the platform has handled 100k QPS and 10k concurrent connections.
           In the other hand, the platform had 10 Million DAU, 100 Million MAU and 1 Million orders per day. So, it takes a lot of effort to make
