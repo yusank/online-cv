@@ -26,7 +26,7 @@ sidebar:
     bitbucket:
     twitter: '@yusankurban'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: yusank
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://drive.google.com/file/d/1wraPdHDo-AC9CX46THeNRQaDl8UmDyeD/view?usp=sharing
 
@@ -54,17 +54,20 @@ sidebar:
         - item: Motorcycle
           link:
 
-        - item: Movie
+        - item: Movies
           link:  
 
 career-profile:
     title: Career Profile
     summary: |
-      I've been in tech industry for over 6 years and never stop to improve my skills.
+      I've been in tech industry for over 6 years and have been working on
+      various projects from backend to cloud native. I'm passionate about
+      learning new technologies and building things. I'm a quick learner and
+      always eager to learn new things.
 education:
     title: Education
     info:
-      # - degree: MSc in Computer Science
+      # - degree: MSc in Advanced Computer Science
       #   university: University of London
       #   time: 2011 - 2012
       #   details: |
@@ -73,149 +76,239 @@ education:
       #     sociis natoque penatibus et magnis dis parturient montes, nascetur
       #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
       #     pretium quis, sem.
-      #       - Bullet point
+      #       - Bullet poin
       #       - Bullet point
       - degree: BSc in Computer science and technology
         university: North China Electric Power University
         time: 2014 - 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I've studied computer science and technology in North China Electric Power University.
+          During my college, I've learned a lot of knowledge about computer science and technology, such as
+          - Computer Network
+          - Operating System
+          - Programming Language
+          - Data structure and algorithm
+          - Database
+          - Software Engineering
+          - Computer Architecture
+          - Hardware
+          Besides, I also co-founded a tech club in my college and organized a lot of activities, including
+          - Hackathon
+          - Tech Talk
+          - Tech Sharing
+          So I've learned a lot of soft skills during my college.
+          From the third year of my college, I've started to learn Golang and build some projects with Golang in a
+          startup company as an intern. I've learned a lot of knowledge about Golang and cloud native during my internship and 
+          joined some of company's projects.
+          In the last year of my college, I had joined a game company's infrastructure team as an intern and started to get in touch with
+          the real production environment.
 experiences:
     title: Experiences
     info:
       - role: Senior Software Engineer
         time: 2021 - Present
-        company: Company2, Beijing
+        company: Shopee, Beijing
         details: |
-          Describe your role here. Details:
-            - Bullet point
-            - Bullet point
+          I joined Shopee as senior software engineer in 2021 in Network team. I was responsible for maintaining
+          HA proxy and Nginx in Shopee's production environment. I've learned a lot of knowledge about network and
+          load balancing during my work in Shopee. From 2022, I was relocated to Shopee's elastic compute team and
+          responsible for maintaining Shopee's deploy platform which is the core platform for all Shopee's services.
+          I've developed a lot of features for deploy platform and improved the stability of deploy platform. I've learned
+          massive knowledge about cloud native and distributed system during my work in Shopee. In the meantime, I've also
+          design and developed brand new deploy platform for Shopee's which is based on Kubernetes and Openkruise. The new platform
+          is more stable, more efficient and more flexible than the old one and aims to replace the old one in the future.
+          In Shopee, I've improved my skills in
+          - Golang
+          - Kubernetes
+          - Openkruise
+          - Distributed System
+          - Cloud Native
+          - Network
+          - Teamwork
+          - Communication
+          - Problem Solving
+          - Project Management
+          - Technical Leadership
+  
       - role: Senior Software Engineer
         time: 2017 - 2021
-        company: Company1, beijing
+        company: Hortor Games, beijing
         details: |
-          Describe your role here. Details:
-            - Bullet point
-            - Bullet point
-certifications:
-      title: Certifications
-      list:
-        - name: Example Cert
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+        Hortor Games is a mobile game company that develops and publishes lots of popular mobile games in China.
+        I joined Hortor Games as an intern in 2017, last year of my college. I was assigned to infrastructure team which  provides
+        infrastructure support for all game teams. I was responsible for maintaining and developing some internal tools for infrastructure 
+        team at first. After that, I was responsible building and maintaining new game platform to replace the old one and it should be have 
+        better performance and stability. I spent a year to build the new game platform and it was successfully launched. I've used a lot of
+        technologies in the new game platform, including
+        - Microservices
+        - New Databases
+        - MQ
+        - ETCD
+        - Redis
+        - Kubernetes
+        I should mention that This new game platform has provided a lot of online services for all game teams that means the platform has
+        a lot of traffic and it should be stable and efficient. At the maximum, the platform has handled 100k QPS and 10k concurrent connections.
+        In the other hand, the platform had 10 Million DAU, 100 Million MAU and 1 Million orders per day. So, it takes a lot of effort to make
+        the platform stable and efficient and it still works well till now.
+
+        I'm so proud and grateful that I've joined Hortor Games at my first job and enlisted in such a great project.
+          
+# certifications:
+#       title: Certifications
+#       list:
+#         - name: Example Cert
+#           start: 2020
+#           end: 2021
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.google.com
+#           credentialname: Google
+#           details: |
+#             Details about cert. Lorem ipsum dolor sit amet, consectetur 
+#             adipiscing elit.
+#             Nullam eget orci purus. Nullam ultrices neque nibh. 
+#             Aenean fermentum, felis vulputate suscipit accumsan, 
+#             sem enim bibendum augue, sed convallis arcu lacus at dui. 
+#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
+#             Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
+#             Praesent venenatis erat non augue suscipit consectetur. 
             
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
+#             Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
+#             fringilla vel. Ut euismod, sem sed vulputate venenatis, 
+#             justo diam viverra velit, sed rhoncus leo leo eu justo.
+#             Suspendisse placerat risus ante, sed porta nisi blandit at. 
         
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. 
+      Here are some of my recent projects. Want to see more? Email me.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      
 
-      - title: DevStudio
+      - title: Game Platform
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: |
+        I've developed a game platform for Hortor Games in 2019. It's a high performance and high availability game platform.
+        It has handled 100k QPS and 10k concurrent connections at the maximum and running well till now.
+        It provides core ability for the game teams which improves the efficiency of game development and operation.
+        Core ability includes
+        - User Management(Registration, Login, Logout, etc.)
+        - Payment(WeChat Pay, Ali Pay, etc.)
+        - Push Notification
+        - Game Data Management
+        - Game Data Analysis
+        - Logging System
+        - Game Server Management(backend system, etc.)
+        - Chat System
+        - Customer Service System
+        - etc.
 
-      - title: Tempo
+      - title: Cloud Native Deploy Platform
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: |
+        I've developed a cloud native deploy platform for Shopee in 2023. It's a high performance and high availability deploy platform.
+        I've maintain the old deploy platform for a year and I've found a lot of problems in the old deploy platform.
+        Then I started to design and develop a new deploy platform which is based on Kubernetes and Openkruise.
+        It will replace the old deploy platform in the future and it will be more stable, more efficient and more flexible than the old one.
+        The technologies I've used in the new deploy platform includes
+        - Kubernetes(CRD, Controller, Scheduler, etc.)
+        - Openkruise(Customize Controller, etc.)
+        - Distributed System
+        - Microservices
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Godis
+        link: "https://github.com/yusank/godis"
+        tagline: |
+        Godis is a Redis client written in Golang. It's a high performance Redis client and it's easy to use.
+        I've developed Godis in 2019 and it's still under development. I've used Godis in some of my projects and it works well.
+        My main purpose of developing Godis is to learn Redis and I actually learned a lot of knowledge about Redis during the development of Godis.
+        I also read Redis source code and learned a lot of knowledge about Redis from the source code.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: GoIM
+        link: "https://go-goim.github.io"
+        tagline: |
+        GoIM is a distributed instant messaging solution based on Golang and RocketMQ. It's a high performance and high availability solution.
+        I've developed GoIM in 2021 and it's still under development. It has passed the basic IM tests, but it still needs a lot of work to be done.
+        My main purpose of developing GoIM is to learn distributed system and Instant Messaging. I've occurred a lot of problems during the development of GoIM
+        and I've fixed most of them. It means I've leared something and improved my skills.
 
+      - title: Protoc-gen-go-http
+        link: "https://github.com/yusank/protoc-gen-go-http"
+        tagline: |
+        Protoc-gen-go-http is a protoc plugin that generates http server code for gRPC service.
+        I've developed Protoc-gen-go-http in 2021 and it is finished. I've used Protoc-gen-go-http in some of my projects and it works well.
+
+      - title: conn-pool
+        link: "https://github.com/yusank/conn-pool"
+        tagline: |
+        Conn-pool is a connection pool for Golang. It's a high performance connection pool and it's easy to use.
+        I've developed Conn-pool in 2021 and it is finished. I've used Conn-pool in some of my projects and it works well.
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I'm a huge fan of open source software and I try to contribute back to
+      the community as much as possible. Here are some of my recent
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Karmada
+        link: "https://github.com/karmada-io/karmada"
+        tagline: |
+          Karmada (Kubernetes Armada) is a Kubernetes management system that enables you to run your 
+          cloud-native applications across multiple Kubernetes clusters and clouds, with no changes to your applications.
+          I've contributed few bug fixes and features to Karmada project and used Karmada in Shopee's production environment.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Kinitiras
+        link: "https://github.com/k-cloud-labs/kinitiras"
+        tagline: |
+        Kinitisa is a lightweight but powerful and programmable rule engine for kubernetes admission webhook.
+        I'm main maintainer of Kinitiras project and I've contributed a lot of features and bug fixes to Kinitiras project.
+        I've also introduced Kinitiras to Shopee's production environment and used it to solve some problems.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: KCloudLabs
+        link: "https://github.com/k-cloud-labs"
+        tagline: |
+        KCloudLabs is a open source organization that aims to provide some useful tools for kubernetes.
+        I'm one of the main maintainers of KCloudLabs and I've contributed a lot of features and bug fixes to KCloudLabs projects.
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Golang
-        level: 98%
-
-      - name: Databases
-        level: 95%
-
-      - name: Network
-        level: 90%
-
+        level: 99%
       - name: Kubernetes
         level: 95%
-
+      - name: Databases
+        level: 95%
+      - name: NetworkPrgramming
+        level: 90%
+      - name: Microservices
+        level: 90%  
       - name: MQ
         level: 85%
-
-      # - name: Sketch & Photoshop
-      #   level: 60%
+      - name: Linux
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
