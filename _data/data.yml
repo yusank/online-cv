@@ -215,10 +215,10 @@ projects:
       - title: Godis
         link: "https://github.com/yusank/godis"
         tagline: |
-        Godis is a Redis client written in Golang. It's a high performance Redis client and it's easy to use.
-        I've developed Godis in 2019 and it's still under development. I've used Godis in some of my projects and it works well.
-        My main purpose of developing Godis is to learn Redis and I actually learned a lot of knowledge about Redis during the development of Godis.
-        I also read Redis source code and learned a lot of knowledge about Redis from the source code.
+          Godis is a Redis client written in Golang. It's a high performance Redis client and it's easy to use.
+          I've developed Godis in 2019 and it's still under development. I've used Godis in some of my projects and it works well.
+          My main purpose of developing Godis is to learn Redis and I actually learned a lot of knowledge about Redis during the development of Godis.
+          I also read Redis source code and learned a lot of knowledge about Redis from the source code.
 
       - title: GoIM
         link: "https://go-goim.github.io"
@@ -257,15 +257,15 @@ oss:
       - title: Kinitiras
         link: "https://github.com/k-cloud-labs/kinitiras"
         tagline: |
-        Kinitisa is a lightweight but powerful and programmable rule engine for kubernetes admission webhook.
-        I'm main maintainer of Kinitiras project and I've contributed a lot of features and bug fixes to Kinitiras project.
-        I've also introduced Kinitiras to Shopee's production environment and used it to solve some problems.
+          Kinitiras is a lightweight but powerful and programmable rule engine for kubernetes admission webhook.
+          I'm main maintainer of Kinitiras project and I've contributed a lot of features and bug fixes to Kinitiras project.
+          I've also introduced Kinitiras to Shopee's production environment and used it to solve some problems.
 
       - title: KCloudLabs
         link: "https://github.com/k-cloud-labs"
         tagline: |
-        KCloudLabs is a open source organization that aims to provide some useful tools for kubernetes.
-        I'm one of the main maintainers of KCloudLabs and I've contributed a lot of features and bug fixes to KCloudLabs projects.
+          KCloudLabs is a open source organization that aims to provide some useful tools for kubernetes.
+          I'm one of the main maintainers of KCloudLabs and I've contributed a lot of features and bug fixes to KCloudLabs projects.
 
 publications:
     title: Publications
