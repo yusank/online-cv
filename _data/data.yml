@@ -87,8 +87,18 @@ education:
         university: University of Exeter (UK)
         time: 2023 - 2024
         details: |
-          I'm going to study Advanced Computer Science in University of Exeter in 2023.
-          I'm so excited about it and I'm looking forward to it.
+          Currently, I'm taking master's course of Advanced Computer Science in University of Exeter since September 2023.
+          Here is some module I've been attend or going to attend:
+          - Natural Inspired Computation
+          - Cyber Security
+          - Learning From Data
+          - Research Methodology
+          - Machine Learning
+          - Social Networks and Text Analysis
+          - High Performance Computing
+          - Evolutionary Computation and Optimization
+
+          I'm also writing some project(Go and Rust) and learning TS during my free time.
       - degree: BSc in Computer science and technology
         university: North China Electric Power University (China)
         time: 2014 - 2018
@@ -169,18 +179,18 @@ experiences:
 
           I'm so proud and grateful that I've joined Hortor Games at my first job and enlisted in such a great project.
           
-certifications:
-      title: Certifications
-      list:
-        - name: Example Cert
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Haven't got any certifications yet. But I'm planning to get some certifications in the future.
+# certifications:
+#       title: Certifications
+#       list:
+#         - name: Example Cert
+#           start: 2020
+#           end: 2021
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.google.com
+#           credentialname: Google
+#           details: |
+#             Haven't got any certifications yet. But I'm planning to get some certifications in the future.
         
 projects:
     title: Projects
