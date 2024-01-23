@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars: yusank
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    pdf: https://rxresu.me/yusank/resume2024
 
     languages:
       title: Languages
