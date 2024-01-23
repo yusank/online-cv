@@ -5,7 +5,7 @@
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Yushan (Aaron) Kuerban
@@ -14,8 +14,8 @@ sidebar:
 
     # Sidebar links
     email: yusankurban@gmail.com
-    phone: +8618610499978
-    timezone: China/Shanghai Timezone
+    phone: 18610499978
+    timezone: United Kingdom/London Timezone
     citizenship:
     website: yusank.space #do not add http://
     linkedin: yusank
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars: yusank
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1gKTsYUjv8nfWbKUN2Fwn3n_XDMVCYChO/view?usp=sharing
+    pdf:
 
     languages:
       title: Languages
@@ -48,137 +48,59 @@ sidebar:
         - item: Skiing
           link:
 
-        - item: Cooking
-          link:
-
-        - item: Motorcycle
+        - item: High tech products
           link:
 
         - item: Movies
           link:
 
-        - item: Music
-          link:
-
-        - item: Socializing
+        - item: VideoGame
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I've been in tech industry for over 6 years and have been working on
-      various projects from backend to cloud native. I'm passionate about
-      learning new technologies and building things. I'm a quick learner and
-      always eager to learn new things.
-      
-      **Currently, I'm about to start my master degree in University of Exeter and I'm looking for a part-time job.**
+      With over 6 years in the tech industry, my career spans a diverse range of experiences, from backend server development to cloud-native technologies. Great experience with `Golang` and `Python` based projects, I have also undertaken small projects in `Rust`, `Lua`, and `JavaScript` frameworks (Vue, Angular). My expertise notably extends to 2 years in `cloud-native` development, encompassing `Docker`, `Kubernetes`, and `Openkruise`, underpinned by a solid understanding of distributed systems and microservices.
 
-      - I had back-end server(Golang,Python) development experience for 4 years and I'm familiar with Golang, Python, Rust, Javascript, etc.
-      - I also had cloud native development experience for 2 years and I'm familiar with Kubernetes, Openkruise, etc.
-      - I also familiar with distributed system and microservices. I'm looking for a part-time job that is related to back-end development, cloud native development, distributed system or microservices.
-      
-      *I'm also interested in open source and I'm a huge fan of open source software. I've contributed a lot of features and bug fixes to open source projects and I'm also a main maintainer of some open source projects.*
+      I am currently enhancing my technical knowledge through a Master's program at the `University of Exeter`, with an expected graduation date of September 2024. This academic endeavor is refining my skills and preparing me for the next stage of my professional journey.
 
-      **Get in touch with me if you have any questions or want to work together on something!**
+      In pursuit of my career objectives, **I am seeking a full-time position that aligns with my background in backend development, cloud-native systems, and distributed architectures.** I am eager to contribute to an environment that values innovation and challenges, continuing my growth in the tech industry.
+
 education:
     title: Education
     info:
       - degree: MSc in Advanced Computer Science
         university: University of Exeter (UK)
         time: 2023 - 2024
-        details: |
-          Currently, I'm taking master's course of Advanced Computer Science in University of Exeter since September 2023.
-          Here is some module I've been attend or going to attend:
-          - Natural Inspired Computation
-          - Cyber Security
-          - Learning From Data
-          - Research Methodology
-          - Machine Learning
-          - Social Networks and Text Analysis
-          - High Performance Computing
-          - Evolutionary Computation and Optimization
-
-          I'm also writing some project(Go and Rust) and learning TS during my free time.
+        details:
       - degree: BSc in Computer science and technology
         university: North China Electric Power University (China)
         time: 2014 - 2018
-        details: |
-          I've studied computer science and technology in North China Electric Power University.
-          During my college, I've learned a lot of knowledge about computer science and technology, such as
-          - Computer Network
-          - Operating System
-          - Programming Language
-          - Data structure and algorithm
-          - Database
-          - Software Engineering
-          - Computer Architecture
-          - Hardware
-
-          Besides, I also co-founded a tech club in my college and organized a lot of activities, including
-          - Hackathon
-          - Tech Talk
-          - Tech Sharing
-
-          So I've learned a lot of soft skills and improved my communication skills during my college.
-
-          From the third year of my college, I've started to learn Golang and build some projects with Golang in a
-          startup company as an intern. I've learned a lot of knowledge about Golang and cloud native during my internship and 
-          joined some of company's projects.
-          
-          In the last year of my college, I had joined a game company's infrastructure team as an intern and started to get in touch with
-          the real production environment.
+        details:
 experiences:
     title: Experiences
     info:
-      - role: Senior Software Engineer
+      - role: Senior Software Engineer, Elastic Compute Platform
         time: 2021/07 - 2023/07
         company: Shopee, Beijing
         details: |
-          I joined Shopee as senior software engineer in 2021 in Network team. I was responsible for maintaining
-          HA proxy and Nginx in Shopee's production environment. I've learned a lot of knowledge about network and
-          load balancing during my work in Shopee. From 2022, I was relocated to Shopee's elastic compute team and
-          responsible for maintaining Shopee's deploy platform which is the core platform for all Shopee's services.
-          I've developed a lot of features for deploy platform and improved the stability of deploy platform. I've learned
-          massive knowledge about cloud native and distributed system during my work in Shopee. In the meantime, I've also
-          design and developed brand new deploy platform for Shopee's which is based on Kubernetes and Openkruise. The new platform
-          is more stable, more efficient and more flexible than the old one and aims to replace the old one in the future.
-          In Shopee, I've improved my skills in
-          - Golang
-          - Kubernetes
-          - Openkruise
-          - Distributed System
-          - Cloud Native
-          - Network
-          - Teamwork
-          - Communication
-          - Problem Solving
-          - Project Management
-          - Technical Leadership
+          **Network Team (2021):** Maintained and optimized HAProxy and Nginx within the production environment, gaining extensive knowledge in network infrastructure and load balancing.
+
+          **Elastic Compute Team (2022 - Jul 2023):** Transitioned to Shopee’s core deployment platform, significantly enhancing its stability and functionality. Led the design and development of a new Kubernetes and Openkruise based deployment platform, designed for increased stability, efficiency, and flexibility.
+
+          **Skills and Leadership Development:** Advanced my expertise in Golang, Kubernetes, and cloud-native technologies. Enhanced abilities in teamwork, communication, problem-solving, project management, and technical leadership, contributing to key strategic initiatives.
   
-      - role: Senior Software Engineer
+      - role: Software Engineer, Infrastructure Team
         time: 2017/09 - 2021/06
         company: Hortor Games, beijing
         details: |
-          Hortor Games is a mobile game company that develops and publishes lots of popular mobile games in China.
-          I joined Hortor Games as an intern in 2017, last year of my college. I was assigned to infrastructure team which  provides
-          infrastructure support for all game teams. I was responsible for maintaining and developing some internal tools for infrastructure 
-          team at first. After that, I was responsible building and maintaining new game platform to replace the old one and it should be have 
-          better performance and stability. I spent a year to build the new game platform and it was successfully launched. I've used a lot of
-          technologies in the new game platform, including
-          - Microservices
-          - New Databases
-          - MQ
-          - ETCD
-          - Redis
-          - Kubernetes
+              **Internship to Senior Role:** Began as an intern in the infrastructure team at Hortor Games, a mobile/H5 game company in Beijing. Over four years, progressed to more significant responsibilities, contributing substantially to various technical projects.
 
-          I should mention that this new game platform has provided a lot of online services for all game teams that means the platform has
-          a lot of traffic and it should be stable and efficient. At the maximum, the platform has handled 100k QPS and 10k concurrent connections.
-          In the other hand, the platform had 10 Million DAU, 100 Million MAU and 1 Million orders per day. So, it takes a lot of effort to make
-          the platform stable and efficient and it still works well till now.
+              **Major Project - Game Platform Development:** Played a pivotal role in developing and maintaining a new gaming platform, aimed at enhancing performance and stability over the existing system. This critical project, involving a year-long development phase, resulted in a successful launch.
 
-          I'm so proud and grateful that I've joined Hortor Games at my first job and enlisted in such a great project.
-          
+              **Technical Implementation and Impact:** Utilized technologies such as Microservices, advanced database solutions, Message Queuing (MQ), ETCD, Redis, and Kubernetes. The platform efficiently handled high traffic volumes, managing 100k QPS and 10k concurrent connections, while supporting 10 million DAU, 100 million MAU, and over 1 million daily transactions.
+
+              **Professional Growth:** My tenure at Hortor Games was marked by significant skill development and contributions towards the creation and maintenance of robust, high-traffic gaming platforms.
 # certifications:
 #       title: Certifications
 #       list:
@@ -191,72 +113,63 @@ experiences:
 #           credentialname: Google
 #           details: |
 #             Haven't got any certifications yet. But I'm planning to get some certifications in the future.
-        
 projects:
     title: Projects
     intro: >
       Here are some of my recent projects. Want to see more? Email me.
     assignments:
-      - title: Game Platform
+      - title: High Performance Game Platform, Hortor Games
         link: "#"
         tagline: |
-          I've developed a game platform for Hortor Games in 2019. It's a high performance and high availability game platform.
-          It has handled 100k QPS and 10k concurrent connections at the maximum and running well till now.
-          It provides core ability for the game teams which improves the efficiency of game development and operation.
-          Core ability includes
-          - User Management(Registration, Login, Logout, etc.)
-          - Payment(WeChat Pay, Ali Pay, etc.)
-          - Push Notification
-          - Game Data Management
-          - Game Data Analysis
-          - Logging System
-          - Game Server Management(backend system, etc.)
-          - Chat System
-          - Customer Service System
-          - etc.
+          - **Objective:** Developed a high-performance, high-availability game platform to enhance the efficiency of game development and operations at Hortor Games.
 
-      - title: Cloud Native Deploy Platform
+          - **Performance Metrics:** Engineered the platform to handle peak loads efficiently, managing up to 100k Queries Per Second (QPS) and 10k concurrent connections, demonstrating robust performance and stability.
+
+          - **Core Functionalities:**
+
+            - **User Management:** Implemented comprehensive features including registration, login, and user-relations management(over 200M users).
+
+            - **Payment Integration:** Integrated multiple payment gateways such as WeChat Pay and Ali Pay, facilitating seamless transactions.
+
+            - **Push Notification System:** Developed a reliable notification system to enhance user engagement.
+
+            - **Game Data Management and Analysis:** Created tools for managing and analyzing game data, providing valuable insights for decision-making.
+
+            - **Logging System:** Implemented a logging system to track and analyze game operations and user activities.
+
+            - **Chat and Customer Service Systems:** Developed communication systems to enhance player interaction and support services.
+
+          - **Technologies Used:** Leveraged a range of technologies (MySQL, MongoDB, Redis, MQ, Websocket, ETCD, ELK etc) to build various components of the platform.
+
+          - **Impact:** The platform has significantly improved the operational efficiency of game teams at Hortor Games, contributing to better game development practices and enhanced player experience.
+
+      - title: Cloud Native Deployment Platform, Shopee
         link: "#"
         tagline: |
-          I've developed a cloud native deploy platform for Shopee in 2023. It's a high performance and high availability deploy platform.
-          I've maintain the old deploy platform for a year and I've found a lot of problems in the old deploy platform.
-          Then I started to design and develop a new deploy platform which is based on Kubernetes and Openkruise.
-          It will replace the old deploy platform in the future and it will be more stable, more efficient and more flexible than the old one.
-          The technologies I've used in the new deploy platform includes
-          - Kubernetes(CRD, Controller, Scheduler, etc.)
-          - Openkruise(Customize Controller, etc.)
-          - Distributed System
-          - Microservices
+          - **Project Genesis:** Identified several limitations in Shopee's existing deployment platform during a year of maintenance. This led to the initiative of designing and developing a new, more advanced deploy platform.
 
-      - title: Godis
-        link: "https://github.com/yusank/godis"
-        tagline: |
-          Godis is a Redis client written in Golang. It's a high performance Redis client and it's easy to use.
-          I've developed Godis in 2019 and it's still under development. I've used Godis in some of my projects and it works well.
-          My main purpose of developing Godis is to learn Redis and I actually learned a lot of knowledge about Redis during the development of Godis.
-          I also read Redis source code and learned a lot of knowledge about Redis from the source code.
+          - **Design and Development:** Spearheaded the creation of a high-performance, high-availability cloud-native deployment platform. Focused on achieving greater stability, efficiency, and flexibility compared to the legacy system.
+
+          - **Innovative Solutions:**
+
+            - **Kubernetes Integration:** Utilized Kubernetes extensively, including Custom Resource Definitions (CRD), custom controllers, and schedulers, to build a robust deployment framework.
+
+            - **Openkruise Implementation:** Incorporated Openkruise for advanced deployment features, emphasizing custom controller development for specialized needs.
+
+            - **Distributed System and Microservices Architecture:** Designed the platform following distributed system principles and a microservices architecture, ensuring scalability and resilience.
+
+          - **Technologies Used:** Employed a combination of cutting-edge technologies in Kubernetes, Openkruise, and other cloud-native tools to develop various components of the deployment platform.
+
+          - **Future Impact:** The new platform is poised to replace the old system, promising enhancements in deployment stability, operational efficiency, and adaptability to evolving project requirements at Shopee.
 
       - title: GoIM
         link: "https://go-goim.github.io"
         tagline: |
-          GoIM is a distributed instant messaging solution based on Golang and RocketMQ. It's a high performance and high availability solution.
+          GoIM is a distributed instant messaging solution based on `Golang` and `RocketMQ`. It's a high performance and high availability solution.
           I've developed GoIM in 2021 and it's still under development. It has passed the basic IM tests, but it still needs a lot of work to be done.
           My main purpose of developing GoIM is to learn distributed system and Instant Messaging. I've occurred a lot of problems during the development of GoIM
           and I've fixed most of them. It means I've learned something and improved my skills.
 
-      - title: Protoc-gen-go-http
-        link: "https://github.com/yusank/protoc-gen-go-http"
-        tagline: |
-          Protoc-gen-go-http is a protoc plugin that generates http server code for gRPC service.
-          I've developed Protoc-gen-go-http in 2021 and it is finished. I've used Protoc-gen-go-http in some of my projects and it works well.
-
-      - title: conn-pool
-        link: "https://github.com/yusank/conn-pool"
-        tagline: |
-          Conn-pool is a connection pool for Golang. It's a high performance connection pool and it's easy to use.
-          I've developed Conn-pool in 2019 and use it in some of company's projects and my own projects.
-          It works well, so wrote a blog about it and it has been read by a lot of people. Some of them even DM me to ask some questions about it.
-          I'm so happy that I can help others, so I decided to open source it and share it with others.
 oss:
     title: OSS Contributions
     intro: >
